@@ -15,6 +15,17 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nirajm06&icon=6&color=1)](https://visitcount.itsvg.in)
 
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/nirajm344/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nirajmahajan51@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
